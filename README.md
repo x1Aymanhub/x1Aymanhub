@@ -27,7 +27,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,linux,git,docker,aws&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,C,&theme=dark" alt="Skills" />
 </div>
 <br/>
 <div align="center">
@@ -41,4 +41,7 @@
   <a href="#" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=0096FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=CYBERSECURITY+%7C+WEB+DEVELOPMENT+%7C+AI" alt="Animated Footer" />
   </a>
+  
 </div>
+
+
